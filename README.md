@@ -1,6 +1,6 @@
 # contrastive-gnn-nids
-Network Intrusion Detection using Graph Neural Networks with contrastive learning, built during my AI/ML internship at Edunet in collaboration with IBM SkillsBuild.
-
+Network Intrusion Detection using Graph Neural Networks with Contrastive Learning
+This project was a hands-on experience on IBM Cloud, built during my AI/ML internship at Edunet Foundation in collaboration with IBM SkillsBuild. The system detects malicious network traffic by leveraging graph neural networks and contrastive pretraining to enhance representation learning.
 # 🛡️ Network Intrusion Detection System Using Graph Neural Networks
 
 A sophisticated Network Intrusion Detection System (NIDS) that leverages Graph Neural Networks (GNNs) to identify and classify cyber-attacks in network traffic. This project transforms network connection data into graph structures and uses contrastive learning for robust anomaly detection.
