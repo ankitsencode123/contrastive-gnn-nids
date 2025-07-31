@@ -64,8 +64,7 @@ pip install -r requirements.txt
 ```
 
 3. Download the dataset:
-   - The model expects data at: `/root/.cache/kagglehub/datasets/sampadab17/network-intrusion-detection/versions/1/`
-   - Ensure you have `Train_data.csv` and `Test_data.csv`
+   - The model expects data in CSV format only
 
 ### Usage
 
