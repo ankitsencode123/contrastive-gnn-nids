@@ -85,8 +85,8 @@ Or execute the Python script directly if you extract the code from the notebook.
 │   ├── P2.png - P3.png
 │   └── SHELL_1.png
 ├── presentation/               # Project documentation
-│   ├── PROJECT_IBM-EDUNET.pdf
-│   └── PROJECT_IBM-EDUNET.pptx
+│   ├── EDUNET-IBM-PROJECT.pdf
+│   └── EDUNET-IBM-PROJECT.pptx
 ├── ml-gnn.ipynb               # Main Jupyter notebook
 ├── requirements.txt           # Python dependencies
 ├── LICENSE                    # MIT License
