@@ -9,7 +9,6 @@ A sophisticated Network Intrusion Detection System (NIDS) that leverages Graph N
 
 - **Graph-based Network Modeling**: Converts network connections into meaningful graph structures
 - **Contrastive Pre-training**: Self-supervised learning approach for better feature representation
-- **Multi-type Attack Detection**: Identifies various cyber-attacks (DoS, Probe, R2L, U2R)
 - **High Performance**: Achieves 99.12% AUC and 96.07% F1-score
 - **Data Augmentation**: Advanced graph augmentation techniques for improved generalization
 - **Chronological Evaluation**: Realistic temporal split to prevent data leakage
