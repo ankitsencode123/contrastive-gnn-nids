@@ -13,20 +13,6 @@ A sophisticated Network Intrusion Detection System (NIDS) that leverages Graph N
 - **Data Augmentation**: Advanced graph augmentation techniques for improved generalization
 - **Chronological Evaluation**: Realistic temporal split to prevent data leakage
 
-## 📊 Results
-
-Our model demonstrates exceptional performance on the network intrusion detection task:
-
-- **AUC Score**: 99.12%
-- **F1 Score**: 96.07%  
-- **Accuracy**: 96.08%
-- **Precision**: 96.15%
-- **Recall**: 96.08%
-
-| Class | Precision | Recall | F1-Score | Support |
-|-------|-----------|---------|----------|---------|
-| Normal | 0.95 | 0.98 | 0.96 | 5,397 |
-| Anomaly | 0.98 | 0.94 | 0.96 | 4,680 |
 
 ## 🏗️ Architecture
 
